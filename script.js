@@ -5,7 +5,6 @@ function calcularSaldoVitorias(vitorias, derrotas) {
 }
 
 // Função para calcular o ranking
-
 function calcularRanking(saldoRankeadas){
     if (saldoRankeadas <10){
         return "Ferro"
